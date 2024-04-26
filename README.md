@@ -26,11 +26,18 @@ GET /api/works (queries)
 GET /api/works/:work_id (comment count)
 
 ### Advanced: 
+
+GET /api/artists
+
+GET /api/artists/:artist_id
+
 GET /api/works (sorting queries)
 
 GET /api/users/:username
 
 PATCH /api/comments/:comment_id
+
+POST /api/artists
 
 POST /api/works
 

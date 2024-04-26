@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS nc_art_test;
+DROP DATABASE IF EXISTS nc_art;
+
+CREATE DATABASE nc_art_test;
+CREATE DATABASE nc_art;

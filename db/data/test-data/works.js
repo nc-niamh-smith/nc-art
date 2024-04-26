@@ -1,0 +1,98 @@
+module.exports = [
+    {
+        title: "Mona Lisa",
+        genre_id: 1,
+        artist: "Leonardo Da Vinci",
+        caption: "Mona might comes from 'Monna' which comes from a polite form of Italian address.",
+        date: 1517,
+        votes: 0,
+        gallery: "Louvre, Paris",
+        img_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/440px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        submitted_by: 7,
+        submitted_at: 1569815102000
+    },
+    {
+        title: "Girl with a Pearl Earring",
+        genre_id: 1,
+        artist: "Johannes Vermeer",
+        caption: "The woman in the painting is potentially based on a prophetess of Ancient Greece.",
+        date: 1665,
+        votes: 0,
+        gallery: "Mauritshuis, The Hague",
+        img_url: "https://lh3.googleusercontent.com/J0sw0IiqP2F4gavYnI-vUa5IBgHiHy42lohgm-qq1vuygUX0HQgylVSV1ZdDTV5XIg=s1200",
+        submitted_by: 1,
+        submitted_at: 1690889771000
+    },
+    {
+        title: "The Starry Night",
+        genre_id: 2,
+        artist: "Vincent van Gogh",
+        caption: "It depicts the view from the east-facing window of his room in the medical facility he was housed in.",
+        date: 1889,
+        votes: 0,
+        gallery: "Museum of Modern Art, New York",
+        img_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/700px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+        submitted_by: 3,
+        submitted_at: 1713780240000
+    },
+    {
+        title: "The Kiss",
+        genre_id: 3,
+        artist: "Gustav Klimt",
+        caption: "The Kiss was bought before it was finished.",
+        date: 1908,
+        votes: 0,
+        gallery: "Österreichische Galerie Belvedere, Vienna",
+        img_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg/600px-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+        submitted_by: 3,
+        submitted_at: 1357045458000
+    },
+    {
+        title: "Impression, Sunrise",
+        genre_id: 2,
+        artist: "Claude Monet",
+        caption: "Impression, Sunrise depicts the port of Le Havre, Monet's hometown.",
+        date: 1872,
+        votes: 0,
+        gallery: "Musée Marmottan Monet, Paris",
+        img_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/600px-Monet_-_Impression%2C_Sunrise.jpg",
+        submitted_by: 2,
+        submitted_at: 1642997160000
+    },
+    {
+        title: "Still Life with Flowers on a Marble Slab",
+        genre_id: 4,
+        artist: "Rachel Ruysch",
+        caption: "Rachel Ruysch is the best documented woman painter of the Dutch Golden Age.",
+        date: 1716,
+        votes: 0,
+        gallery: "Rijksmuseum, Amsterdam",
+        img_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rachel_Ruysch_-_Still_life_with_flowers_on_a_marble_tabletop.jpg/1280px-Rachel_Ruysch_-_Still_life_with_flowers_on_a_marble_tabletop.jpg",
+        submitted_by: 7,
+        submitted_at: 1453556575000
+    },
+    {
+        title: "The Horse Fair",
+        genre_id: 3,
+        artist: "Rosa Bonheur",
+        caption: "It took her 18 months of constant work to create it, through dozens of sketches, in two final versions with very different sizes.",
+        date: 1855,
+        votes: 0,
+        gallery: "Metropolitan Museum of Art, New York",
+        img_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rosa_Bonheur%2C_The_Horse_Fair%2C_1852%E2%80%9355.jpg/900px-Rosa_Bonheur%2C_The_Horse_Fair%2C_1852%E2%80%9355.jpg",
+        submitted_by: 4,
+        submitted_at: 1596321255000,
+    },
+    {
+        title: "Beata Beatrix",
+        genre_id: 1,
+        artist: "Dante Gabriel Rossetti",
+        caption: "Beata Beatrix depicts a scene from the poem La Vita Nouva by Dante Alighieri.",
+        date: 1870,
+        votes: 0,
+        gallery: "Tate Britain, London",
+        img_url: "https://uploads3.wikiart.org/images/dante-gabriel-rossetti/beata-beatrix-1880.jpg!Large.jpg",
+        submitted_by: 1,
+        submitted_at: 1695374835000
+    }
+]

@@ -78,5 +78,5 @@ module.exports = [
         birth_date: 1887,
         death_date: 1986,
         img_url: "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe"
-    }
+    },
 ]

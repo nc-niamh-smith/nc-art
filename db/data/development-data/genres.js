@@ -18,5 +18,9 @@ module.exports = [
     {
         slug: "History",
         description: "The depiction of significant historical or allegorical moments."
+    },
+    {
+        slug: "Abstract",
+        description: "The depiction of "
     }
 ]

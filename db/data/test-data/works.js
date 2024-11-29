@@ -3,7 +3,7 @@ module.exports = [
         title: "Mona Lisa",
         genre_id: 1,
         artist: "Leonardo Da Vinci",
-        caption: "Mona might comes from 'Monna' which comes from a polite form of Italian address.",
+        caption: "Mona might come from 'Monna' which comes from a polite form of Italian address.",
         date: 1517,
         votes: 0,
         gallery: "Louvre, Paris",

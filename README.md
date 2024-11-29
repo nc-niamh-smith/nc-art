@@ -1,6 +1,10 @@
 # Northcoders Art API
 
-## List of Endpoints: 
+- View the data in `./db/data/` and use the ERD in `./ERD.png` in order to construct your seed file for testing.
+- Production data doesn't exist! This is because realistically, you'll want to add your own favourite artworks.
+- You can call your tables whatever you want! I would suggest  the db should be called `art-gallery-test`, `art-gallery-dev` and `art-gallery-prod` but it's up to you!
+
+## List of possible Endpoints:
 
 ### Core:
 GET /api/genres
